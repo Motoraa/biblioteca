@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                   &copy; Biblioteca online |Designed by : Motora Andrei
+                   &copy; Biblioteca online
                 </div>
 
             </div>
